@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800790367543",
+    "project_id": "besquare-fcm-690dd",
+    "storage_bucket": "besquare-fcm-690dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800790367543:android:bbe880d5689e667b8f5eb2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800790367543-vt1g80gkqcunpbvtl5u01egvvnt4g2n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkihVyLyBHR7tfcbZ99OGavO_6fmVffi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800790367543-vt1g80gkqcunpbvtl5u01egvvnt4g2n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
